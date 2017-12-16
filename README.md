@@ -1,3 +1,5 @@
+nder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MTDzi/tensorflow-generative-model-collections/master?filepath=main.ipynb)
+
 # tensorflow-generative-model-collections
 Tensorflow implementation of various GANs and VAEs.
 

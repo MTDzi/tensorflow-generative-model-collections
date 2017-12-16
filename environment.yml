@@ -8,3 +8,5 @@ dependencies:
 - conda-forge::xgboost==0.6a2
 - conda-forge::keras==2.0.8
 - conda-forge::tensorflow==1.4.0
+- anaconda::pillow==4.3.0
+- anaconda::scipy==1.0.0
